@@ -7,6 +7,12 @@
 
 A containerized WeChat OCR API service with multi-architecture support (x86_64 and ARM64). This project is forked from [hx71105417/wxocr](https://github.com/hx71105417/wxocr) with additional improvements for modern environments.
 
+<details>
+<summary>WebUI Example</summary>
+<img src="https://github.com/user-attachments/assets/594dd312-a65b-4c91-a562-3e148b3af4bd" alt="WebUI Example"
+width="600"/>
+</details>
+
 ## 🚀 Features
 
 - Multi-architecture support (AMD64 and ARM64)
@@ -14,6 +20,7 @@ A containerized WeChat OCR API service with multi-architecture support (x86_64 a
 - Docker container ready
 - Simple REST API interface
 - Easy deployment
+- Simple web UI for testing
 
 ## 📋 Prerequisites
 
